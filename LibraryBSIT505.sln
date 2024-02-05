@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryBSIT505", "LibraryBSIT505\LibraryBSIT505.csproj", "{FA5EAB6C-4299-4564-851C-E2A66899DA2F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BD79B1F7-CACC-479E-AF2E-8871F92DA8B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA5EAB6C-4299-4564-851C-E2A66899DA2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA5EAB6C-4299-4564-851C-E2A66899DA2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA5EAB6C-4299-4564-851C-E2A66899DA2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA5EAB6C-4299-4564-851C-E2A66899DA2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {713324D3-5FB8-4DCC-9F0D-1DBF782DD93F}
+	EndGlobalSection
+EndGlobal
